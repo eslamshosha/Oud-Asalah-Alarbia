@@ -267,17 +267,17 @@ nav::after {
   background-image: -moz-radial-gradient(
     50% 50%,
     rgb(139, 102, 62) 0%,
-    rgb(97, 62, 43) 100%
+    rgb(80 46 28) 70%
   );
   background-image: -webkit-radial-gradient(
     50% 50%,
     rgb(139, 102, 62) 0%,
-    rgb(97, 62, 43) 100%
+    rgb(80 46 28) 70%
   );
   background-image: -ms-radial-gradient(
     50% 50%,
     rgb(139, 102, 62) 0%,
-    rgb(97, 62, 43) 100%
+    rgb(80 46 28) 70%
   );
 }
 
@@ -1349,7 +1349,7 @@ html[dir="rtl"] .footer-accordion.active:after {
   }
   .show-icons,
   .header-icons .add-to {
-    margin-inline-end: 10px;
+    margin-inline-end: 15px;
   }
   .fixed-nav .top-header .header-icons {
     width: unset;
@@ -1474,7 +1474,6 @@ html[dir="rtl"] .footer-accordion.active:after {
     display: flex;
     width: unset;
     height: auto;
-    margin-inline-end: 10px;
   }
   .hide-big {
     display: block;
@@ -1574,7 +1573,7 @@ html[dir="rtl"] .footer-accordion.active:after {
   .design-text {
     order: 3;
   }
-  .cr-cont{
+  .cr-cont {
     margin-top: 30px;
   }
   .cr-img img {
